@@ -1,4 +1,4 @@
-# wonder-collect
+# wonder-collector
 
 `wonder-collect` collects configured Threads keyword or topic-tag searches on a schedule and delivers a digest to Slack or a generic webhook.
 
